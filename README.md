@@ -7,6 +7,6 @@ Genomics Commander uses
 * Plotly
 * Django
 * nginx
-* GCP Storage Big Query
-* jupyter lab 
+* GCP Storage, compute engine, Big Query
+* Jupyter lab 
 * Dtron: Fact Management Architecture
